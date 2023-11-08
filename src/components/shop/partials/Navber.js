@@ -68,7 +68,7 @@ const Navber = (props) => {
               style={{ letterSpacing: "0.10rem" }}
               className="flex items-left text-center font-bold uppercase text-gray-800 text-2xl cursor-pointer px-2 text-center"
             >
-              SUPPLIED
+              Zalya
             </span>
           </div>
           <div
@@ -76,7 +76,7 @@ const Navber = (props) => {
             style={{ letterSpacing: "0.70rem" }}
             className="hidden lg:block flex items-left col-span-1 text-center text-black-900 font-bold tracking-widest uppercase text-2xl cursor-pointer"
           >
-            SUPPLIED
+            Zalya
           </div>
           <div className="flex items-right col-span-2 lg:col-span-1 flex justify-end">
             {/*  WishList Page Button */}
